@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Daily Motivation</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="grid_imageview_desc">Image of the quote author</string>
+    <string name="no_network">No Network available</string>
+    <string name="isFirstRun">FirstRun</string>
+    <string name="firstRunInternetNeeded">Network connection is needed for app to fetch data\nThis happens only the first time</string>
+    <string name="bookmark_image_button">Image button to bookmark quote</string>
+    <string name="ic_settings">Settings</string>
+    <string name="authorimage_transition">Author Image Transition</string>
+    <string name="toolbar_imageview_content_description">Author image</string>
+    <string name="favorites">Favourites</string>
+    <string name="no_favorites_found">Boo!\nNo favorites added\nAdd by clicking on bookmark icon next to the quote :D</string>
+    <string name="view_all"><![CDATA[View all>]]></string>
+    <string name="ic_share">Share</string>
+    <string name="share_app_intent">Check out Motivaton Daily on play store! \"LINK\"</string>
+    <string name="share_via">Share via</string>
+    <string name="all_authors">All Authors</string>
+    <string name="all_tags">Categories</string>
+    <string name="icon_description">Discription of app icon</string>
+    <string name="widget_image">Widget Image</string>
+    <string name="internet_needed">No network connection</string>
+    <string name="no_favorites_found_widget">No favorites added</string>
+    <string name="tags_title">Tags:</string>
+    <string name="authors_title">Authors:</string>
+    <string name="data_loading_splash">Please wait while data is loaded.\\nThis only happens the first time while loading the app.</string>
+</resources>

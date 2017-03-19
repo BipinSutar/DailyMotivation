@@ -1,0 +1,19 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_margin_small">4dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="card_elevation">4dp</dimen>
+    <dimen name="activity_margin_medium">8dp</dimen>
+    <dimen name="quote_text_size">18sp</dimen>
+    <dimen name="pager_card_corner_radius">10dp</dimen>
+    <dimen name="authorname_text_size">16sp</dimen>
+    <dimen name="appbar_default_elevation">4dp</dimen>
+    <dimen name="appbar_layout_dimension">320dp</dimen>
+    <dimen name="no_quotes_text_size">16sp</dimen>
+    <dimen name="daily_quote_text_size">18sp</dimen>
+    <dimen name="heading_text_size">18sp</dimen>
+    <dimen name="view_all_text_size">14sp</dimen>
+    <dimen name="activity_margin_micro">1dp</dimen>
+    <dimen name="activity_margin_12">12dp</dimen>
+</resources>
