@@ -26,8 +26,8 @@ Uses firebase as a back-end for working, and all the present data is available f
 </p>
 
 <p align="center">
-  <img src="/Screenshots/AllAuthors.png" width="350"/>
-  <img src="/Screenshots/AllTags.png" width="350"/>
+  <img src="/Screenshots/All_authors.png" width="350"/>
+  <img src="/Screenshots/All_Tags.png" width="350"/>
 </p>
 
 <p align="center">
